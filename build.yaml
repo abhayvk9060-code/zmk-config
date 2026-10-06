@@ -51,8 +51,8 @@
 # pressing the reset buttons at the same time.
 #
 # cmake-args: -DKEYMAP_FILE=../../config/other-corne.keymap -DCONFIG_ZMK_KEYBOARD_NAME=\"other-corne\" -DEXTRA_CONF_FILE=../../config/other-corne.conf
----
-include:
+#---
+#include:
 
   ### CORNE START ###
     ### nice_view START ###
