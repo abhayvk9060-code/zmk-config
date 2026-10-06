@@ -1,6 +1,6 @@
 file_format: "1"
-id: corne
-name: Corne
+id: corne_custom
+name: Corne custom
 type: shield
 url: https://github.com/foostan/crkbd/
 requires: [pro_micro]
@@ -11,8 +11,8 @@ features:
   - underglow
   - studio
 siblings:
-  - corne_left
-  - corne_right
+  - corne_custom_left
+  - corne_custom_right
   - corne_left_peripheral
   - corne_dongle_xiao
   - corne_dongle_pro_micro
