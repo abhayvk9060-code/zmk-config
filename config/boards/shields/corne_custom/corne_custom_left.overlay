@@ -19,6 +19,7 @@
 };
 
 // vim: filetype=dts fdm=marker:
+
 &kscan0 {
  diode-direction = "row2col";
  row-gpios
